@@ -1,4 +1,35 @@
+# Python
 .venv/
 __pycache__/
 *.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Jupyter
 .ipynb_checkpoints/
+
+# Secrets
+.env
+
+# Data and model artifacts
+data/
+datasets/
+checkpoints/
+outputs/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+
+# Experiment tracking
+wandb/
+mlruns/
+runs/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
