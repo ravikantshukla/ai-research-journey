@@ -3,7 +3,7 @@
 A 156-week, 23-phase roadmap from the math behind neural networks to AI/ML research and AI safety research, learned in public.
 
 - **Current phase:** 00 · Toolkit
-- **Started:** YYYY-MM-DD
+- **Started:** 2026-09-28
 
 ## About me
 
